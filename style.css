@@ -1122,7 +1122,7 @@ a:active {
   opacity: 0;
 }
 .flat-theme .rad-logo-container {
-  background: #f7b40b !important;
+  background: #=#32323a !important;
   position: relative;
   z-index: 1000;
 }
