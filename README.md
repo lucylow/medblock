@@ -22,19 +22,11 @@
 
 
 ---
-## How was the application developed?
+## How was the application developed? (Tech stack)
 
 
 ---
 ## How to use the application
-
-
----
-## Difficulties & Challenges faced during the design and/or development process
-
-
----
-## Go-to-Market (How will the application be available to the public and is it scalable?)
 
 
 
