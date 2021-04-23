@@ -9,26 +9,6 @@
 
 </div>
 
----
-
-## Introduction
-
----
-## Purpose & Motivation
-
-
----
-## How does the application work?
-
-
----
-## How was the application developed? (Tech stack)
-
-
----
-## How to use the application
-
-
 
 ---
 ## References
