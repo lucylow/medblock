@@ -2,6 +2,8 @@
 
 **AI-powered medical robots on the blockchain**
 
+https://youtu.be/dWbCL46Yhkk
+
 <div>
   
   [![Status](https://img.shields.io/badge/status-active-success.svg)]()
@@ -15,6 +17,7 @@
 
 ![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.53.59%20PM.png)
 
+https://youtu.be/dWbCL46Yhkk
 ## MedBlock Solution
 
 ![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.48.09%20PM.png)
