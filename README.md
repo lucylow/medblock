@@ -10,10 +10,12 @@
 </div>
 
 ## Motivation
-![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.48.09%20PM.png)
+
+![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.53.59%20PM.png)
 
 ## How it works
 
+![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.48.09%20PM.png)
 
 ![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.48.34%20PM.png)
 
