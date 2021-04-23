@@ -9,6 +9,20 @@
 
 </div>
 
+## Motivation
+![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.48.09%20PM.png)
+
+## How it works
+
+
+![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.48.34%20PM.png)
+
+## MedBlock
+
+![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.48.44%20PM.png)
+![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.48.52%20PM.png)
+![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.49.04%20PM.png)
+![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.49.12%20PM.png)
 
 ---
 ## References
