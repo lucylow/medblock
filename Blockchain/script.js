@@ -31,7 +31,7 @@ for await (const chunk of stream) {
 console.log(data)
 
 
-
+// TODO: add to the main index.html
 angular.module('modalTest',['ui.bootstrap','dialogs'])
 .controller('dialogServiceTest',function($scope,$rootScope,$timeout,$dialogs){
   $scope.confirmed = 'You have yet to be confirmed!';
