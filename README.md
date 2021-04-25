@@ -1,6 +1,6 @@
 # MED BLOCK 
 
-**AI-powered medical robots on the blockchain** https://youtu.be/dWbCL46Yhkk
+**AI-powered medical robots on the blockchain** 
 
 <div>
   
