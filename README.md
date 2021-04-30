@@ -11,7 +11,7 @@
 
 </div>
 
-## Motivation - For my grandma
+## Motivation 
 
 ![](https://github.com/lucylow/medblock/blob/main/Images/Screen%20Shot%202021-04-23%20at%205.53.59%20PM.png)
 
@@ -39,4 +39,3 @@ https://www.liveinhomecare.com/emerging-technologies-to-help-aging-americans-mai
 
 
 
-For my grandma
