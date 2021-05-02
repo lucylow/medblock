@@ -1,4 +1,4 @@
-# MED BLOCK 
+# MEDBOT 
 
 **AI-powered medical robots on the blockchain** 
 
@@ -11,7 +11,6 @@
 
 </div>
 
-# MEDBOT ROBONOMICS
 
 ------
 
@@ -102,7 +101,8 @@ Enable medical robots to launch based on payment. Robonomics can be seen as a co
 * Multilingual Support
 
 ---
-#### References
+
+## References
 
 * 120 Artificial intelligence in palliative care: a systematic review to identify how novel data analytic technologies are used in the management of people with serious illness https://spcare.bmj.com/content/11/Suppl_1/A52.2?utm_content=consumer&utm_medium=cpc&utm_source=trendmd&utm_campaign=bmjspc&utm_term=usage-042019
 * Artificial Intelligence for Caregivers of Persons With Alzheimer’s Disease and Related Dementias: Systematic Literature Review https://medinform.jmir.org/2020/8/e18189?utm_source=TrendMD&utm_medium=cpc&utm_campaign=JMIR_TrendMD_0
