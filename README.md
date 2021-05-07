@@ -24,7 +24,7 @@ Smart environments of the future for seniors aged 65+. Seniors represent 5% of p
 * Long-term health - identify health risks managed multiple medications and chronic illnesses 
 * Social connection - relationships with friends and family 
 
-The solution is Medbot Robonomics. 
+The solution is Medbot. 
 
 Seniors can connect to the internet and integrate with our advanced smart home technology with innovative use of AI-powered medical robots on the robonomics blockchain. One of the main problems with remote medical healthcare is the way highly identifiable sensitive medical patient's  data is stored. Instead of records in physical files, we have EPR - an Electronic Patient Record system. The lack of consistent communication between healthcare providers is a large issue in the medical industry. 
 
@@ -113,4 +113,4 @@ https://www.liveinhomecare.com/emerging-technologies-to-help-aging-americans-mai
 
 
 
-
+For my grandma.
